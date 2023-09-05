@@ -1,0 +1,239 @@
+      
+      body{
+        background-image: url('add.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+      }
+  header{
+   display: flex;
+   justify-content: flex-start;
+   background-color: rgb(30, 30, 109);
+   color: antiquewhite; 
+   
+}
+
+
+nav ul li{
+    display: inline;
+    padding: 10px;
+    padding: 30px;  
+     
+}
+nav ul li a{
+    border:5px;
+    background-color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 55%;
+    color: rgb(36, 36, 161);
+}
+.grid{
+    display: grid;
+    display: flex;
+    gap:20px;
+    
+    
+}
+pre{
+    margin-right: 400px;
+    font-size: large;
+    color:black;
+}
+#About h2{
+    text-align: center;
+    color:black;
+    text-decoration:underline;
+}
+
+   
+  
+  #Menu{
+    display: flex;
+    flex-wrap: wrap;
+}
+#Menu img{
+    padding: 37px;
+}
+h2{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    display: flex;
+}
+#Products .grid{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+#Products  img{
+    padding: 10px;
+}
+#Products h2{
+    text-align: center;
+    color:black;
+    text-decoration:underline;
+}
+
+.itema{
+    border: 5px solid grey;
+    background-color: whitesmoke;
+}
+.itemb{
+    background-color:grey;
+    border: 5px solid whitesmoke;
+}
+.itemc{
+    background-color: gray;
+    border: 5px solid whitesmoke;
+}
+.itemd{
+    background-color: gray;
+    border: 5px solid whitesmoke;
+}
+.iteme{
+    background-color: gray;
+    border: 5px solid whitesmoke;
+}
+.itemf{
+    background-color: gray;
+    border: 5px solid whitesmoke;
+}
+.itemg{
+    background-color: gray;
+    border: 5px solid whitesmoke;
+}
+.itemh{
+    background-color: gray;
+    border: 5px solid whitesmoke;
+}
+
+
+
+
+
+
+.btn{
+    text-align: center;
+    background-color: black;
+    color: beige;
+    display: inline;
+    display:flex;
+    justify-content: center;
+}
+
+
+
+.gridiii{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
+#carousel {
+    width: 100%;
+    height:700px;
+    background-color: black;
+    overflow: auto auto;
+    white-space: nowrap;
+}
+#carousel .slide {
+    display: inline-block;
+}
+.gridiii{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
+.iteml,.itemk,.itemm{
+    gap: 10px;
+    width: 500px;
+    height: 120px;
+    background-color: whitesmoke;
+}
+.n{
+    display: flex;
+    color: black;
+}
+.itemk{
+    display: flex;
+    color: black;
+}
+.itemm{
+    display: flex;
+    color: black;
+}
+.row{
+    display: flex;
+}
+.inputbox{
+    color: white;
+    width: 850px;
+    height: 70px;
+}
+.btni{
+    width: 85px;
+    color: white;
+    background-color: black;
+}
+footer{
+    background-color: black;
+    
+    background-position-x: center;
+    background-size: 400px;
+    height: 100px;
+}
+input{
+    width: 400px;
+    height: 30px;
+}
+.a{
+    background-color: grey;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.a:hover{
+    background-color: brown;
+}
+.gridiiii{
+    
+    display: grid;
+    grid-template-rows: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 30px;
+    gap: 10px;
+
+}
+.itemp,.itemq,.itemr,.items{
+    background-color: white;
+    width: 45px;
+    height: 45px;
+    border-radius: 50px;
+    
+}
+.mg{
+    border-radius: 50%;
+    padding:3px;
+    margin-left: 5pxpx;
+}
+
+h2{
+    color: black;
+}
+.btn:hover{
+    background-color: brown;
+
+}
+marquee{
+    color: black;
+}
+footer P{
+    color: aliceblue;
+}
+
+    
